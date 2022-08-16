@@ -9,7 +9,8 @@
  </a>
 </p>
 
-<p>Welcome to my profile! </br> I'm Sami, a Fullstack developer</p>
+</br>
+</br>
 
 ## Languages and Tools
 
